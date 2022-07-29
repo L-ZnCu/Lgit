@@ -1,0 +1,14 @@
+D:\VS 项目\teat9-9\teat9-9\bin\Debug\netcoreapp3.1\teat9-9.exe
+D:\VS 项目\teat9-9\teat9-9\bin\Debug\netcoreapp3.1\teat9-9.deps.json
+D:\VS 项目\teat9-9\teat9-9\bin\Debug\netcoreapp3.1\teat9-9.runtimeconfig.json
+D:\VS 项目\teat9-9\teat9-9\bin\Debug\netcoreapp3.1\teat9-9.runtimeconfig.dev.json
+D:\VS 项目\teat9-9\teat9-9\bin\Debug\netcoreapp3.1\teat9-9.dll
+D:\VS 项目\teat9-9\teat9-9\bin\Debug\netcoreapp3.1\teat9-9.pdb
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.csproj.AssemblyReference.cache
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.AssemblyInfoInputs.cache
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.AssemblyInfo.cs
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.csproj.CoreCompileInputs.cache
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.dll
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.pdb
+D:\VS 项目\teat9-9\teat9-9\obj\Debug\netcoreapp3.1\teat9-9.genruntimeconfig.cache
